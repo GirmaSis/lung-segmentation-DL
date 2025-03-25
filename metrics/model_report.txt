@@ -1,0 +1,22 @@
+Lung Segmentation - Performance Summary
+=======================================
+Total test samples: 301
+Average Dice Score: 0.9662
+Average IoU Score : 0.7138
+Mean Uncertainty  : 0.190742
+
+Top 5 Best Samples:
+ sample_index  dice_score  iou_score
+            0         1.0   0.000004
+          207         1.0   0.000004
+          209         1.0   0.000004
+          210         1.0   0.000004
+          211         1.0   0.000004
+
+Bottom 5 Worst Samples:
+ sample_index   dice_score    iou_score
+          248 3.066667e-01 1.807294e-01
+          236 9.999991e-07 7.923028e-07
+          222 1.666666e-07 1.596898e-07
+          225 1.666666e-07 1.596898e-07
+          247 4.524887e-09 4.519528e-09
