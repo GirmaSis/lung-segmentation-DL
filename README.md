@@ -1,6 +1,6 @@
 ## Lung segmentation from Chest CT scans using Deep Learning ##
 
-This project performs automatic **lung region segmentation** from chest CT scans using 2D slices and a PyTorch lightweight **U-Net** architecture. 
+This project performs automatic **lung region segmentation** from chest CT scans using 2D slices and a PyTorch lightweight **U-NET** architecture. 
 
 ***Notebook contains a complete end-to-end pipeline:***
 
@@ -22,11 +22,11 @@ This project performs automatic **lung region segmentation** from chest CT scans
 | `lightning_logs/`        | FP/FN overlays                       |
 | `plots/`                 | dice_iou/sample & score_distributions|
 | `metrics/`               | lung_segmentation_metrics_results    |
-| `requirements.txt/`      | Python dependencies                  |
+| `requirements.txt`      | Python dependencies                  |
 
 
 <p align="center">
-  <img src="https://github.com/GirmaSis/lung-segmentation-DL/blob/main/batch%20visualization.png" width="45%" />
+  <img src="https://github.com/GirmaSis/lung-segmentation-DL/blob/main/visualization%20of%20axial%20slice.png" width="45%" />
   <img src="https://github.com/GirmaSis/lung-segmentation-DL/blob/main/batch%20visualization.png" width="45%" />
 </p>
 
