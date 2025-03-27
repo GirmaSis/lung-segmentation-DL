@@ -26,8 +26,8 @@ This project performs automatic **lung region segmentation** from chest CT scans
 
 
 <p align="center">
-  <img src="https://github.com/GirmaSis/lung-segmentation-DL/blob/main/visualization%20of%20axial%20slice.png" width="45%" />
-  <img src="https://github.com/GirmaSis/lung-segmentation-DL/blob/main/batch%20visualization.png" width="45%" />
+  <img src="https://github.com/GirmaSis/lung-segmentation-DL/blob/main/visualization%20of%20axial%20slice.png" width="50%" />
+  <img src="https://github.com/GirmaSis/lung-segmentation-DL/blob/main/batch%20visualization.png" width="60%" />
 </p>
 
 ## 🛠 Setup & requirements
