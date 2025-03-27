@@ -1,0 +1,21 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+seaborn
+tqdm
+imageio
+nibabel
+SimpleITK
+albumentations
+medpy
+
+# PyTorch & Lightning
+torch>=1.10
+torchvision
+pytorch-lightning>=1.7
+
+# Jupyter Notebook (if using notebooks)
+notebook
+ipykernel
